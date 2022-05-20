@@ -18,7 +18,7 @@ organizations:
   - name: City University of Hong Kong
 education:
   courses:
-    - course: PhD in Data Science
+    - course: Ph.D. in Data Science
       institution: City University of Hong Kong
       year: 2021-
     - course: M.Sc. in Computer Science
