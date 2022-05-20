@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: wml@morin.wang
   address:
-    street: 601 Nanshan Building, City University of Hong Kong, Address 83 Tat Chee Avenue, Kowloon
+    street: 601 Nanshan Building, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon
     city: Hong Kong
 
 
