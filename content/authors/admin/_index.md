@@ -3,7 +3,10 @@ title: Maolin Wang 王茂林
 role: Ph.D. Student in Data Science
 bio: Tensor Decompositions (Tensor Networks), Graph Data Processing and Deep
   Neural Networks
-interests: []
+interests:
+  - Tensor Decompositions
+  - Graph Data Processing
+  - Deep Neural Networks
 social:
   - icon: envelope
     icon_pack: fas
