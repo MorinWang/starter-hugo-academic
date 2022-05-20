@@ -1,8 +1,8 @@
 ---
 title: Maolin Wang 王茂林
-role: Ph.D. Student in Data Science at City University of Hong Kong
-bio: My research interests include Tensor Decompositions (Tensor Networks),
-  Graph Data Processing and Deep Neural Networks
+role: Ph.D. Student in Data Science
+bio: Tensor Decompositions (Tensor Networks), Graph Data Processing and Deep
+  Neural Networks
 interests: []
 social:
   - icon: envelope
@@ -11,7 +11,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/MorinWang
-organizations: []
+organizations:
+  - name: City University of Hong Kong
 education:
   courses:
     - course: PhD in Data Science
