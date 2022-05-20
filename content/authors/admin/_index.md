@@ -14,15 +14,15 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Data Science
+      institution: City University of Hong Kong
+      year: 2021-
     - course: M.Sc. in Computer Science
       institution: University of Electronic Science and Technology of China
-      year: 2015
+      year: 2018-2021
     - course: B.Sc. in Computer Science
       institution: University of Electronic Science and Technology of China
-      year: 2018
+      year: 2014-2018
 email: ""
 superuser: true
 highlight_name: true
