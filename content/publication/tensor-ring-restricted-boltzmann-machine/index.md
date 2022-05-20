@@ -8,11 +8,12 @@ authors:
   - Yu Pan
   - Jing Xu
   - Zenglin Xu
+publication: (Oral) in IJCNN 2019
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-05-20T04:37:31.868Z
+date: 2022-05-20T04:37:00.000Z
 ---
