@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Morin Wang. This work is licensed under {license}'
+    notice: '© {year} Morin Wang.'
 
 # Localization
 
