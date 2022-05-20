@@ -9,7 +9,7 @@ authors:
   - Yu Pan
   - Shenggen Zheng
   - Zenglin Xu
-publication: ICONIP 2020
+publication: in ICONIP
 draft: false
 featured: false
 image:
