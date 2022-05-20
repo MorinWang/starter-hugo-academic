@@ -8,7 +8,7 @@ authors:
   - Yu Pan
   - Jing Xu
   - Zenglin Xu
-publication: (Oral) in IJCNN 2019
+publication: (Oral) in IJCNN
 draft: false
 featured: false
 image:
@@ -17,4 +17,3 @@ image:
   preview_only: false
 date: 2019-05-20T04:37:00.000Z
 ---
-
