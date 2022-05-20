@@ -19,16 +19,16 @@ education:
       institution: City University of Hong Kong
       year: 2021-
     - course: M.Sc. in Computer Science
-      institution: University of Electronic Science and Technology of China
+      institution: UESTC
       year: 2018-2021
     - course: B.Sc. in Computer Science
-      institution: University of Electronic Science and Technology of China
+      institution: UESTC
       year: 2014-2018
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Maolin Wang is a Ph.D. Student co-supervised by Prof. Junhui Wang and Prof. Xiangyu Zhao at the City University of Hong Kong. His research interests include Tensor Decompositions (Tensor Networks), Graph Data Processing and Deep Neural Networks. 
+Maolin Wang is a Ph.D. Student co-supervised by Prof. Junhui Wang and Prof. Xiangyu Zhao at the City University of Hong Kong. His research interests include Tensor Decompositions (Tensor Networks), Graph Data Processing, and Deep Neural Networks. He got his master's and bachelor's degree from University of Electronic Science and Technology of China(UESTC) supervised by Prof. Zenglin Xu.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
