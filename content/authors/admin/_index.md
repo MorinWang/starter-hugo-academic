@@ -32,6 +32,6 @@ superuser: true
 highlight_name: true
 ---
 
-Maolin Wang is a Ph.D. Student co-supervised by Dr. Xiangyu Zhao and Prof. Junhui Wang at the City University of Hong Kong. His research interests include Tensor Decompositions (Tensor Networks), Graph Data Processing, and Deep Neural Networks. He got his master's and bachelor's degree from University of Electronic Science and Technology of China (UESTC) supervised by Prof. Zenglin Xu.
+Maolin Wang is a Ph.D. Student co-supervised by Dr. Xiangyu Zhao (Supervisor), Dr. Ruocheng Guo (External Supervisor), and Prof. Junhui Wang (External Supervisor) at the City University of Hong Kong. His research interests include Tensor Decompositions (Tensor Networks), Graph Data Processing, and Deep Neural Networks. He got his master's and bachelor's degree from University of Electronic Science and Technology of China (UESTC) supervised by Prof. Zenglin Xu.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
