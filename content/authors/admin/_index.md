@@ -21,7 +21,7 @@ education:
     - course: Ph.D. in Data Science
       institution: City University of Hong Kong
       year: 2021-
-    - course: M.Sc. in Computer Science
+    - course: M.Phil. in Computer Science
       institution: UESTC
       year: 2018-2021
     - course: B.Sc. in Computer Science
