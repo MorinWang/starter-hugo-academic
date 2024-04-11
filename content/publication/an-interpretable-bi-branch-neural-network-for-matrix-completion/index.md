@@ -1,12 +1,14 @@
 ---
-title: An interpretable bi-branch neural network for matrix completion
+title: Tensor Ring Restricted Boltzmann Machine
 publication_types:
   - "1"
 authors:
-  - Xiaopeng Li
   - Maolin Wang
-  - Hing Cheung So
-publication: Signal Processing
+  - Chenbin Zhang
+  - Yu Pan
+  - Jing Xu
+  - Zenglin Xu
+publication: (Oral) in IJCNN
 draft: false
 featured: false
 image:

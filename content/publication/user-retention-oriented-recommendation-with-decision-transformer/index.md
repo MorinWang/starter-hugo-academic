@@ -1,12 +1,14 @@
 ---
-title: An interpretable bi-branch neural network for matrix completion
+title: User retention-oriented recommendation with decision transformer
 publication_types:
   - "1"
 authors:
-  - Xiaopeng Li
-  - Maolin Wang
-  - Hing Cheung So
-publication: Signal Processing
+  - Kesen Zhao
+  - Lixin Zou
+  - Xiangyu Zhao
+  - Maolin WANG
+  - Dawei Yin
+publication: WWW 2023
 draft: false
 featured: false
 image:
