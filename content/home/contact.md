@@ -28,7 +28,8 @@ content:
   email: wml@morin.wang
   address:
     street: 601 Nanshan Building, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon
-    city: Hong Kong
+    city: Hong Kong SAR
+    country: China
 
 
 design:
