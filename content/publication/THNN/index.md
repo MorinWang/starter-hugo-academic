@@ -11,7 +11,7 @@ authors:
   - Zenglin Xu
   - Ruocheng Guo
   - Xiangyu Zhao
-publication: SDM 2024
+publication: SDM 2024 
 draft: false
 featured: false
 image:
