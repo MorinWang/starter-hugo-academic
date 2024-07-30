@@ -11,7 +11,7 @@ authors:
   - Xiangyu Zhao
   - Zijian Zhang
   - Hongzhi Yin
-publication: (* Equal Contribution) RecSys
+publication: (Equal Contribution) RecSys
 draft: false
 featured: false
 image:
