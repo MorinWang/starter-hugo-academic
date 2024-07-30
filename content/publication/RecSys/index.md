@@ -1,5 +1,5 @@
 ---
-title: DNS-Rec Data-aware Neural Architecture Search for Recommender Systems
+title: DNS-Rec\: Data-aware Neural Architecture Search for Recommender Systems
 publication_types:
   - "1"
 authors:
