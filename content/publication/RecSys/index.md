@@ -3,15 +3,13 @@ title: DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems
 publication_types:
   - "1"
 authors:
-  - Sheng Zhang \*
-  - Maolin Wang \*
+  - Sheng Zhang *
+  - Maolin Wang *
   - Yao Zhao
   - Chenyi Zhuang
   - Ruocheng Guo
   - Xiangyu Zhao
-  - Zijian Zhang
-  - Hongzhi Yin
-publication: (* Equal Contribution) Signal Processing
+publication: (* Equal Contribution) RecSys
 draft: false
 featured: false
 image:
