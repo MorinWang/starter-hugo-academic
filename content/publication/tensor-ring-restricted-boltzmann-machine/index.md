@@ -3,8 +3,8 @@ title: An interpretable bi-branch neural network for matrix completion
 publication_types:
   - "1"
 authors:
-  - Xiaopeng Li *
-  - Maolin Wang *
+  - Xiaopeng Li*
+  - Maolin Wang*
   - Hing Cheung So
 publication: (* Equal Contribution) Signal Processing
 draft: false
