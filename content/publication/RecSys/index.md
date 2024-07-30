@@ -1,5 +1,5 @@
 ---
-title: DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems
+title: DNS-Rec Data-aware Neural Architecture Search for Recommender Systems
 publication_types:
   - "1"
 authors:
@@ -9,6 +9,8 @@ authors:
   - Chenyi Zhuang
   - Ruocheng Guo
   - Xiangyu Zhao
+  - Zijian Zhang
+  - Hongzhi Yin
 publication: (* Equal Contribution) RecSys
 draft: false
 featured: false
