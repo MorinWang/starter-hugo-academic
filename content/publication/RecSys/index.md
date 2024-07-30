@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Sheng Zhang*
-  - Maolin Wang\*
+  - Maolin Wang^*
   - Yao Zhao
   - Chenyi Zhuang
   - Ruocheng Guo
